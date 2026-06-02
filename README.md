@@ -2,8 +2,8 @@
 
 <H1 ALIGN=CENTER> Experiment-3: Implementation of Approximate Inference in Bayesian Networks </H1>
 
-### Name: 
-### Register Number:
+### Name:Poovarasu V
+### Register Number:2305002017
 
 ## Aim: 
    To construct a python program to implement approximate inference using Gibbs Sampling.
